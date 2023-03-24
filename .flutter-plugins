@@ -1,0 +1,17 @@
+# This is a generated file; do not edit or check into version control.
+firebase_auth=/Users/pp/.pub-cache/hosted/pub.dev/firebase_auth-4.3.0/
+firebase_auth_web=/Users/pp/.pub-cache/hosted/pub.dev/firebase_auth_web-5.2.10/
+firebase_core=/Users/pp/.pub-cache/hosted/pub.dev/firebase_core-2.8.0/
+firebase_core_web=/Users/pp/.pub-cache/hosted/pub.dev/firebase_core_web-2.2.2/
+google_sign_in=/Users/pp/.pub-cache/hosted/pub.dev/google_sign_in-6.0.2/
+google_sign_in_android=/Users/pp/.pub-cache/hosted/pub.dev/google_sign_in_android-6.1.8/
+google_sign_in_ios=/Users/pp/.pub-cache/hosted/pub.dev/google_sign_in_ios-5.6.1/
+google_sign_in_web=/Users/pp/.pub-cache/hosted/pub.dev/google_sign_in_web-0.11.0+2/
+path_provider_linux=/Users/pp/.pub-cache/hosted/pub.dev/path_provider_linux-2.1.10/
+path_provider_windows=/Users/pp/.pub-cache/hosted/pub.dev/path_provider_windows-2.1.5/
+shared_preferences=/Users/pp/.pub-cache/hosted/pub.dev/shared_preferences-2.0.18/
+shared_preferences_android=/Users/pp/.pub-cache/hosted/pub.dev/shared_preferences_android-2.0.17/
+shared_preferences_foundation=/Users/pp/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.1.5/
+shared_preferences_linux=/Users/pp/.pub-cache/hosted/pub.dev/shared_preferences_linux-2.1.5/
+shared_preferences_web=/Users/pp/.pub-cache/hosted/pub.dev/shared_preferences_web-2.0.6/
+shared_preferences_windows=/Users/pp/.pub-cache/hosted/pub.dev/shared_preferences_windows-2.1.5/
